@@ -1,0 +1,13 @@
+com\shaulayh\controller\DemoController.class
+com\shaulayh\utils\AttributeNames.class
+com\shaulayh\service\TodoItemServiceImpl.class
+com\shaulayh\controller\TodoController.class
+com\shaulayh\utils\ViewNames.class
+com\shaulayh\config\WebConfig.class
+com\shaulayh\model\TodoItem.class
+com\shaulayh\service\DemoService.class
+com\shaulayh\config\WebAppInitializer.class
+com\shaulayh\service\TodoItemService.class
+com\shaulayh\service\DemoServiceImpl.class
+com\shaulayh\model\TodoData.class
+com\shaulayh\utils\Mappings.class
